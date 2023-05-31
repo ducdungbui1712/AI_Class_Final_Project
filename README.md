@@ -1,4 +1,8 @@
 # Project topic
+## My project's score: 
+* Exercise 1: 5/5
+* Exercise 2: 3/5
+
 ## Exercise 1
 * Write a program to solve the traveler problem (TSP) using genetic algorithm with
 distance in 2 cases: smallest, largest.
